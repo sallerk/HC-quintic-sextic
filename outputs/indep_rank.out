@@ -1,0 +1,31 @@
+d=3 m=1  F_d=[0, 1, 2]  R=6 (closed 6)  h^mm_prim=6/6  b_prim=6/6  IVHS1>= 6  types(finite sectors)={'bal': {'(1, 1)': 6}}
+d=3 m=2  F_d=[0, 1, 2]  R=20 (closed 20)  h^mm_prim=20/20  b_prim=22/22  IVHS1>= 20  types(finite sectors)={'nonbal': {'(3, 1)': 1, '(1, 3)': 1}, 'bal': {'(2, 2)': 20}}
+d=3 m=3  F_d=[0, 1, 2]  R=70 (closed 70)  h^mm_prim=70/70  b_prim=86/86  IVHS1>= 70  types(finite sectors)={'nonbal': {'(4, 2)': 8, '(2, 4)': 8}, 'bal': {'(3, 3)': 70}}
+d=3 m=4  F_d=[0, 1, 2]  R=252 (closed 252)  h^mm_prim=252/252  b_prim=342/342  IVHS1>= 252  types(finite sectors)={'nonbal': {'(5, 3)': 45, '(3, 5)': 45}, 'bal': {'(4, 4)': 252}}
+d=4 m=1  F_d=[0, 1, 3]  R=17 (closed 17)  h^mm_prim=19/19  b_prim=21/21  IVHS1>= 17  types(finite sectors)={'bal': {'(1, 1)': 17}}
+d=4 m=2  F_d=[0, 1, 3]  R=99 (closed 99)  h^mm_prim=141/141  b_prim=183/183  IVHS1>= 111  types(finite sectors)={'bal': {'(2, 2)': 99}}
+d=4 m=3  F_d=[0, 1, 3]  R=609 (closed 609)  h^mm_prim=1107/1107  b_prim=1641/1641  IVHS1>= 753  types(finite sectors)={'nonbal': {'(4, 2)': 16, '(2, 4)': 16}, 'bal': {'(3, 3)': 609}}
+d=4 m=4  F_d=[0, 1, 3]  R=3843 (closed 3843)  h^mm_prim=8953/8953  b_prim=14763/14763  IVHS1>= 5243  types(finite sectors)={'nonbal': {'(5, 3)': 240, '(3, 5)': 240}, 'bal': {'(4, 4)': 3843}}
+d=5 m=1  F_d=[0]  R=16 (closed 16)  h^mm_prim=44/44  b_prim=52/52  IVHS1>= 34  types(finite sectors)={'bal': {'(1, 1)': 16}}
+d=5 m=2  F_d=[0]  R=64 (closed 64)  h^mm_prim=580/580  b_prim=820/820  IVHS1>= 334  types(finite sectors)={'bal': {'(2, 2)': 64}}
+d=5 m=3  F_d=[0]  R=256 (closed 256)  h^mm_prim=8092/8092  b_prim=13108/13108  IVHS1>= 3442  types(finite sectors)={'bal': {'(3, 3)': 256}}
+d=5 m=4  F_d=[0]  R=1024 (closed 1024)  h^mm_prim=116304/116304  b_prim=209716/209716  IVHS1>= 36304  types(finite sectors)={'bal': {'(4, 4)': 1024}}
+d=6 m=1  F_d=[0, 1, 5]  R=57 (closed 57)  h^mm_prim=85/85  b_prim=105/105  IVHS1>= 57  types(finite sectors)={'bal': {'(1, 1)': 57}}
+d=6 m=2  F_d=[0, 1, 5]  R=605 (closed 605)  h^mm_prim=1751/1751  b_prim=2605/2605  IVHS1>= 749  types(finite sectors)={'bal': {'(2, 2)': 605}}
+d=6 m=3  F_d=[0, 1, 5]  R=6961 (closed 6961)  h^mm_prim=38165/38165  b_prim=65105/65105  IVHS1>= 10353  types(finite sectors)={'bal': {'(3, 3)': 6961}}
+d=6 m=4  F_d=[0, 1, 5]  R=81525 (closed 81525)  h^mm_prim=856945/856945  b_prim=1627605/1627605  IVHS1>= 146965  types(finite sectors)={'bal': {'(4, 4)': 81525}}
+d=7 m=1  F_d=[0]  R=36 (closed 36)  h^mm_prim=146/146  b_prim=186/186  IVHS1>= 86  types(finite sectors)={'bal': {'(1, 1)': 36}}
+d=7 m=2  F_d=[0]  R=216 (closed 216)  h^mm_prim=4332/4332  b_prim=6666/6666  IVHS1>= 1416  types(finite sectors)={'bal': {'(2, 2)': 216}}
+d=7 m=3  F_d=[0]  R=1296 (closed 1296)  h^mm_prim=135954/135954  b_prim=239946/239946  IVHS1>= 24546  types(finite sectors)={'bal': {'(3, 3)': 1296}}
+d=7 m=4  F_d=[0]  R=7776 (closed 7776)  h^mm_prim=4395456/4395456  b_prim=8638026/8638026  IVHS1>= 437526  types(finite sectors)={'bal': {'(4, 4)': 7776}}
+d=8 m=1  F_d=[0]  R=49 (closed 49)  h^mm_prim=231/231  b_prim=301/301  IVHS1>= 121  types(finite sectors)={'bal': {'(1, 1)': 49}}
+d=8 m=2  F_d=[0]  R=343 (closed 343)  h^mm_prim=9331/9331  b_prim=14707/14707  IVHS1>= 2395  types(finite sectors)={'bal': {'(2, 2)': 343}}
+d=8 m=3  F_d=[0]  R=2401 (closed 2401)  h^mm_prim=398567/398567  b_prim=720601/720601  IVHS1>= 49921  types(finite sectors)={'bal': {'(3, 3)': 2401}}
+d=8 m=4  F_d=[0]  R=16807 (closed 16807)  h^mm_prim=17538157/17538157  b_prim=35309407/35309407  IVHS1>= 1070527  types(finite sectors)={'bal': {'(4, 4)': 16807}}
+d=9 m=1  F_d=[0]  R=64 (closed 64)  h^mm_prim=344/344  b_prim=456/456  IVHS1>= 162  types(finite sectors)={'bal': {'(1, 1)': 64}}
+d=9 m=2  F_d=[0]  R=512 (closed 512)  h^mm_prim=18152/18152  b_prim=29128/29128  IVHS1>= 3746  types(finite sectors)={'bal': {'(2, 2)': 512}}
+d=9 m=3  F_d=[0]  R=4096 (closed 4096)  h^mm_prim=1012664/1012664  b_prim=1864136/1864136  IVHS1>= 91218  types(finite sectors)={'bal': {'(3, 3)': 4096}}
+d=9 m=4  F_d=[0]  R=32768 (closed 32768)  h^mm_prim=58199208/58199208  b_prim=119304648/119304648  IVHS1>= 2285788  types(finite sectors)={'bal': {'(4, 4)': 32768}}
+comparison: {"3,2": {"claimed": 20, "mine": 20, "agree": true, "how": "enumerated"}, "3,3": {"claimed": 70, "mine": 70, "agree": true, "how": "enumerated"}, "4,2": {"claimed": 99, "mine": 99, "agree": true, "how": "enumerated"}, "4,3": {"claimed": 609, "mine": 609, "agree": true, "how": "enumerated"}, "4,4": {"claimed": 3843, "mine": 3843, "agree": true, "how": "enumerated"}, "6,2": {"claimed": 605, "mine": 605, "agree": true, "how": "enumerated"}, "6,3": {"claimed": 6961, "mine": 6961, "agree": true, "how": "enumerated"}, "6,4": {"claimed": 81525, "mine": 81525, "agree": true, "how": "enumerated"}, "5,2": {"claimed": 64, "mine": 64, "agree": true, "how": "enumerated"}, "5,3": {"claimed": 256, "mine": 256, "agree": true, "how": "enumerated"}, "7,2": {"claimed": 216, "mine": 216, "agree": true, "how": "enumerated"}, "8,2": {"claimed": 343, "mine": 343, "agree": true, "how": "enumerated"}, "7,3": {"claimed": 1296, "mine": 1296, "agree": true, "how": "enumerated"}, "8,3": {"claimed": 2401, "mine": 2401, "agree": true, "how": "enumerated"}, "9,4": {"claimed": 32768, "mine": 32768, "agree": true, "how": "enumerated"}, "3,1": {"claimed": 6, "mine": 6, "agree": true, "how": "enumerated"}, "4,1": {"claimed": 17, "mine": 17, "agree": true, "how": "enumerated"}, "5,1": {"claimed": 16, "mine": 16, "agree": true, "how": "enumerated"}, "6,1": {"claimed": 57, "mine": 57, "agree": true, "how": "enumerated"}, "7,1": {"claimed": 36, "mine": 36, "agree": true, "how": "enumerated"}, "8,1": {"claimed": 49, "mine": 49, "agree": true, "how": "enumerated"}}
+surface rho: {3: 7, 4: 18, 5: 17, 6: 58, 7: 37, 8: 50, 9: 65}
+ALL CHECKS PASS: True

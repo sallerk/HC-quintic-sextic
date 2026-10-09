@@ -1,0 +1,30 @@
+Lemma 6.1 fails (some Galois orbit inside {1,d-1}) for d in [3, 4, 6]
+finite rational sectors: {3: [0, 1, 2], 4: [0, 1, 3], 6: [0, 1, 5]}
+d=3 m=2: R_dp=20 R_formula=20 off-middle=2 h^(m,m)_prim=20 b_prim=22
+d=3 m=3: R_dp=70 R_formula=70 off-middle=16 h^(m,m)_prim=70 b_prim=86
+d=3 m=4: R_dp=252 R_formula=252 off-middle=90 h^(m,m)_prim=252 b_prim=342
+d=4 m=2: R_dp=99 R_formula=99 off-middle=0 h^(m,m)_prim=141 b_prim=183
+d=4 m=3: R_dp=609 R_formula=609 off-middle=32 h^(m,m)_prim=1107 b_prim=1641
+d=4 m=4: R_dp=3843 R_formula=3843 off-middle=480 h^(m,m)_prim=8953 b_prim=14763
+d=5 m=2: R_dp=64 R_formula=64 off-middle=0 h^(m,m)_prim=580 b_prim=820
+d=5 m=3: R_dp=256 R_formula=256 off-middle=0 h^(m,m)_prim=8092 b_prim=13108
+d=5 m=4: R_dp=1024 R_formula=1024 off-middle=0 h^(m,m)_prim=116304 b_prim=209716
+d=6 m=2: R_dp=605 R_formula=605 off-middle=0 h^(m,m)_prim=1751 b_prim=2605
+d=6 m=3: R_dp=6961 R_formula=6961 off-middle=0 h^(m,m)_prim=38165 b_prim=65105
+d=6 m=4: R_dp=81525 R_formula=81525 off-middle=0 h^(m,m)_prim=856945 b_prim=1627605
+d=7 m=2: R_dp=216 R_formula=216 off-middle=0 h^(m,m)_prim=4332 b_prim=6666
+d=7 m=3: R_dp=1296 R_formula=1296 off-middle=0 h^(m,m)_prim=135954 b_prim=239946
+d=7 m=4: R_dp=7776 R_formula=7776 off-middle=0 h^(m,m)_prim=4395456 b_prim=8638026
+d=8 m=2: R_dp=343 R_formula=343 off-middle=0 h^(m,m)_prim=9331 b_prim=14707
+d=8 m=3: R_dp=2401 R_formula=2401 off-middle=0 h^(m,m)_prim=398567 b_prim=720601
+d=8 m=4: R_dp=16807 R_formula=16807 off-middle=0 h^(m,m)_prim=17538157 b_prim=35309407
+d=9 m=2: R_dp=512 R_formula=512 off-middle=0 h^(m,m)_prim=18152 b_prim=29128
+d=9 m=3: R_dp=4096 R_formula=4096 off-middle=0 h^(m,m)_prim=1012664 b_prim=1864136
+d=9 m=4: R_dp=32768 R_formula=32768 off-middle=0 h^(m,m)_prim=58199208 b_prim=119304648
+d=3 r=1: sig=[1, 0] lo/hi=[0, 1] order=6 max|eig|=1.0000 orbit=[1, 2]
+d=4 r=1: sig=[2, 0] lo/hi=[0, 2] order=96 max|eig|=1.0000 orbit=[1, 3]
+d=5 r=1: sig=[3, 0] lo/hi=[0, 3] order=None max|eig|=1.0000 orbit=[1, 2, 3, 4]
+d=5 r=2: sig=[2, 1] lo/hi=[1, 2] order=None max|eig|=31.9921 orbit=[1, 2, 3, 4]
+d=6 r=1: sig=[4, 0] lo/hi=[0, 4] order=155520 max|eig|=1.0000 orbit=[1, 5]
+d=6 r=2: sig=[3, 1] lo/hi=[1, 3] order=None max|eig|=13.7839 orbit=[2, 4]
+d=7 r=1: sig=[5, 0] lo/hi=[0, 5] order=None max|eig|=1.0000 orbit=[1, 2, 3, 4, 5, 6]

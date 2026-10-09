@@ -1,0 +1,777 @@
+{
+ "3,1": {
+  "d": 3,
+  "m": 1,
+  "finite_sectors": [
+   0,
+   1,
+   2
+  ],
+  "b_prim_sum": 6,
+  "b_prim_formula": 6,
+  "hmm_prim_jacobian": 6,
+  "hmm_prim_fermat": 6,
+  "R": 6,
+  "R_closed": 6,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 6
+   }
+  },
+  "ivhs_first_order_bound": 6
+ },
+ "3,2": {
+  "d": 3,
+  "m": 2,
+  "finite_sectors": [
+   0,
+   1,
+   2
+  ],
+  "b_prim_sum": 22,
+  "b_prim_formula": 22,
+  "hmm_prim_jacobian": 20,
+  "hmm_prim_fermat": 20,
+  "R": 20,
+  "R_closed": 20,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "nonbal": {
+    "(3, 1)": 1,
+    "(1, 3)": 1
+   },
+   "bal": {
+    "(2, 2)": 20
+   }
+  },
+  "ivhs_first_order_bound": 20
+ },
+ "3,3": {
+  "d": 3,
+  "m": 3,
+  "finite_sectors": [
+   0,
+   1,
+   2
+  ],
+  "b_prim_sum": 86,
+  "b_prim_formula": 86,
+  "hmm_prim_jacobian": 70,
+  "hmm_prim_fermat": 70,
+  "R": 70,
+  "R_closed": 70,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "nonbal": {
+    "(4, 2)": 8,
+    "(2, 4)": 8
+   },
+   "bal": {
+    "(3, 3)": 70
+   }
+  },
+  "ivhs_first_order_bound": 70
+ },
+ "3,4": {
+  "d": 3,
+  "m": 4,
+  "finite_sectors": [
+   0,
+   1,
+   2
+  ],
+  "b_prim_sum": 342,
+  "b_prim_formula": 342,
+  "hmm_prim_jacobian": 252,
+  "hmm_prim_fermat": 252,
+  "R": 252,
+  "R_closed": 252,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "nonbal": {
+    "(5, 3)": 45,
+    "(3, 5)": 45
+   },
+   "bal": {
+    "(4, 4)": 252
+   }
+  },
+  "ivhs_first_order_bound": 252
+ },
+ "4,1": {
+  "d": 4,
+  "m": 1,
+  "finite_sectors": [
+   0,
+   1,
+   3
+  ],
+  "b_prim_sum": 21,
+  "b_prim_formula": 21,
+  "hmm_prim_jacobian": 19,
+  "hmm_prim_fermat": 19,
+  "R": 17,
+  "R_closed": 17,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 17
+   }
+  },
+  "ivhs_first_order_bound": 17
+ },
+ "4,2": {
+  "d": 4,
+  "m": 2,
+  "finite_sectors": [
+   0,
+   1,
+   3
+  ],
+  "b_prim_sum": 183,
+  "b_prim_formula": 183,
+  "hmm_prim_jacobian": 141,
+  "hmm_prim_fermat": 141,
+  "R": 99,
+  "R_closed": 99,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(2, 2)": 99
+   }
+  },
+  "ivhs_first_order_bound": 111
+ },
+ "4,3": {
+  "d": 4,
+  "m": 3,
+  "finite_sectors": [
+   0,
+   1,
+   3
+  ],
+  "b_prim_sum": 1641,
+  "b_prim_formula": 1641,
+  "hmm_prim_jacobian": 1107,
+  "hmm_prim_fermat": 1107,
+  "R": 609,
+  "R_closed": 609,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "nonbal": {
+    "(4, 2)": 16,
+    "(2, 4)": 16
+   },
+   "bal": {
+    "(3, 3)": 609
+   }
+  },
+  "ivhs_first_order_bound": 753
+ },
+ "4,4": {
+  "d": 4,
+  "m": 4,
+  "finite_sectors": [
+   0,
+   1,
+   3
+  ],
+  "b_prim_sum": 14763,
+  "b_prim_formula": 14763,
+  "hmm_prim_jacobian": 8953,
+  "hmm_prim_fermat": 8953,
+  "R": 3843,
+  "R_closed": 3843,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "nonbal": {
+    "(5, 3)": 240,
+    "(3, 5)": 240
+   },
+   "bal": {
+    "(4, 4)": 3843
+   }
+  },
+  "ivhs_first_order_bound": 5243
+ },
+ "5,1": {
+  "d": 5,
+  "m": 1,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 52,
+  "b_prim_formula": 52,
+  "hmm_prim_jacobian": 44,
+  "hmm_prim_fermat": 44,
+  "R": 16,
+  "R_closed": 16,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 16
+   }
+  },
+  "ivhs_first_order_bound": 34
+ },
+ "5,2": {
+  "d": 5,
+  "m": 2,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 820,
+  "b_prim_formula": 820,
+  "hmm_prim_jacobian": 580,
+  "hmm_prim_fermat": 580,
+  "R": 64,
+  "R_closed": 64,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(2, 2)": 64
+   }
+  },
+  "ivhs_first_order_bound": 334
+ },
+ "5,3": {
+  "d": 5,
+  "m": 3,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 13108,
+  "b_prim_formula": 13108,
+  "hmm_prim_jacobian": 8092,
+  "hmm_prim_fermat": 8092,
+  "R": 256,
+  "R_closed": 256,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(3, 3)": 256
+   }
+  },
+  "ivhs_first_order_bound": 3442
+ },
+ "5,4": {
+  "d": 5,
+  "m": 4,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 209716,
+  "b_prim_formula": 209716,
+  "hmm_prim_jacobian": 116304,
+  "hmm_prim_fermat": 116304,
+  "R": 1024,
+  "R_closed": 1024,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(4, 4)": 1024
+   }
+  },
+  "ivhs_first_order_bound": 36304
+ },
+ "6,1": {
+  "d": 6,
+  "m": 1,
+  "finite_sectors": [
+   0,
+   1,
+   5
+  ],
+  "b_prim_sum": 105,
+  "b_prim_formula": 105,
+  "hmm_prim_jacobian": 85,
+  "hmm_prim_fermat": 85,
+  "R": 57,
+  "R_closed": 57,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 57
+   }
+  },
+  "ivhs_first_order_bound": 57
+ },
+ "6,2": {
+  "d": 6,
+  "m": 2,
+  "finite_sectors": [
+   0,
+   1,
+   5
+  ],
+  "b_prim_sum": 2605,
+  "b_prim_formula": 2605,
+  "hmm_prim_jacobian": 1751,
+  "hmm_prim_fermat": 1751,
+  "R": 605,
+  "R_closed": 605,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(2, 2)": 605
+   }
+  },
+  "ivhs_first_order_bound": 749
+ },
+ "6,3": {
+  "d": 6,
+  "m": 3,
+  "finite_sectors": [
+   0,
+   1,
+   5
+  ],
+  "b_prim_sum": 65105,
+  "b_prim_formula": 65105,
+  "hmm_prim_jacobian": 38165,
+  "hmm_prim_fermat": 38165,
+  "R": 6961,
+  "R_closed": 6961,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(3, 3)": 6961
+   }
+  },
+  "ivhs_first_order_bound": 10353
+ },
+ "6,4": {
+  "d": 6,
+  "m": 4,
+  "finite_sectors": [
+   0,
+   1,
+   5
+  ],
+  "b_prim_sum": 1627605,
+  "b_prim_formula": 1627605,
+  "hmm_prim_jacobian": 856945,
+  "hmm_prim_fermat": 856945,
+  "R": 81525,
+  "R_closed": 81525,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(4, 4)": 81525
+   }
+  },
+  "ivhs_first_order_bound": 146965
+ },
+ "7,1": {
+  "d": 7,
+  "m": 1,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 186,
+  "b_prim_formula": 186,
+  "hmm_prim_jacobian": 146,
+  "hmm_prim_fermat": 146,
+  "R": 36,
+  "R_closed": 36,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 36
+   }
+  },
+  "ivhs_first_order_bound": 86
+ },
+ "7,2": {
+  "d": 7,
+  "m": 2,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 6666,
+  "b_prim_formula": 6666,
+  "hmm_prim_jacobian": 4332,
+  "hmm_prim_fermat": 4332,
+  "R": 216,
+  "R_closed": 216,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(2, 2)": 216
+   }
+  },
+  "ivhs_first_order_bound": 1416
+ },
+ "7,3": {
+  "d": 7,
+  "m": 3,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 239946,
+  "b_prim_formula": 239946,
+  "hmm_prim_jacobian": 135954,
+  "hmm_prim_fermat": 135954,
+  "R": 1296,
+  "R_closed": 1296,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(3, 3)": 1296
+   }
+  },
+  "ivhs_first_order_bound": 24546
+ },
+ "7,4": {
+  "d": 7,
+  "m": 4,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 8638026,
+  "b_prim_formula": 8638026,
+  "hmm_prim_jacobian": 4395456,
+  "hmm_prim_fermat": 4395456,
+  "R": 7776,
+  "R_closed": 7776,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(4, 4)": 7776
+   }
+  },
+  "ivhs_first_order_bound": 437526
+ },
+ "8,1": {
+  "d": 8,
+  "m": 1,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 301,
+  "b_prim_formula": 301,
+  "hmm_prim_jacobian": 231,
+  "hmm_prim_fermat": 231,
+  "R": 49,
+  "R_closed": 49,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 49
+   }
+  },
+  "ivhs_first_order_bound": 121
+ },
+ "8,2": {
+  "d": 8,
+  "m": 2,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 14707,
+  "b_prim_formula": 14707,
+  "hmm_prim_jacobian": 9331,
+  "hmm_prim_fermat": 9331,
+  "R": 343,
+  "R_closed": 343,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(2, 2)": 343
+   }
+  },
+  "ivhs_first_order_bound": 2395
+ },
+ "8,3": {
+  "d": 8,
+  "m": 3,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 720601,
+  "b_prim_formula": 720601,
+  "hmm_prim_jacobian": 398567,
+  "hmm_prim_fermat": 398567,
+  "R": 2401,
+  "R_closed": 2401,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(3, 3)": 2401
+   }
+  },
+  "ivhs_first_order_bound": 49921
+ },
+ "8,4": {
+  "d": 8,
+  "m": 4,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 35309407,
+  "b_prim_formula": 35309407,
+  "hmm_prim_jacobian": 17538157,
+  "hmm_prim_fermat": 17538157,
+  "R": 16807,
+  "R_closed": 16807,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(4, 4)": 16807
+   }
+  },
+  "ivhs_first_order_bound": 1070527
+ },
+ "9,1": {
+  "d": 9,
+  "m": 1,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 456,
+  "b_prim_formula": 456,
+  "hmm_prim_jacobian": 344,
+  "hmm_prim_fermat": 344,
+  "R": 64,
+  "R_closed": 64,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(1, 1)": 64
+   }
+  },
+  "ivhs_first_order_bound": 162
+ },
+ "9,2": {
+  "d": 9,
+  "m": 2,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 29128,
+  "b_prim_formula": 29128,
+  "hmm_prim_jacobian": 18152,
+  "hmm_prim_fermat": 18152,
+  "R": 512,
+  "R_closed": 512,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(2, 2)": 512
+   }
+  },
+  "ivhs_first_order_bound": 3746
+ },
+ "9,3": {
+  "d": 9,
+  "m": 3,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 1864136,
+  "b_prim_formula": 1864136,
+  "hmm_prim_jacobian": 1012664,
+  "hmm_prim_fermat": 1012664,
+  "R": 4096,
+  "R_closed": 4096,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(3, 3)": 4096
+   }
+  },
+  "ivhs_first_order_bound": 91218
+ },
+ "9,4": {
+  "d": 9,
+  "m": 4,
+  "finite_sectors": [
+   0
+  ],
+  "b_prim_sum": 119304648,
+  "b_prim_formula": 119304648,
+  "hmm_prim_jacobian": 58199208,
+  "hmm_prim_fermat": 58199208,
+  "R": 32768,
+  "R_closed": 32768,
+  "nonbalanced_in_mm": 0,
+  "finite_sector_hodge_types": {
+   "bal": {
+    "(4, 4)": 32768
+   }
+  },
+  "ivhs_first_order_bound": 2285788
+ },
+ "_comparison_with_claims": {
+  "3,2": {
+   "claimed": 20,
+   "mine": 20,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "3,3": {
+   "claimed": 70,
+   "mine": 70,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "4,2": {
+   "claimed": 99,
+   "mine": 99,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "4,3": {
+   "claimed": 609,
+   "mine": 609,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "4,4": {
+   "claimed": 3843,
+   "mine": 3843,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "6,2": {
+   "claimed": 605,
+   "mine": 605,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "6,3": {
+   "claimed": 6961,
+   "mine": 6961,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "6,4": {
+   "claimed": 81525,
+   "mine": 81525,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "5,2": {
+   "claimed": 64,
+   "mine": 64,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "5,3": {
+   "claimed": 256,
+   "mine": 256,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "7,2": {
+   "claimed": 216,
+   "mine": 216,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "8,2": {
+   "claimed": 343,
+   "mine": 343,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "7,3": {
+   "claimed": 1296,
+   "mine": 1296,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "8,3": {
+   "claimed": 2401,
+   "mine": 2401,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "9,4": {
+   "claimed": 32768,
+   "mine": 32768,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "3,1": {
+   "claimed": 6,
+   "mine": 6,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "4,1": {
+   "claimed": 17,
+   "mine": 17,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "5,1": {
+   "claimed": 16,
+   "mine": 16,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "6,1": {
+   "claimed": 57,
+   "mine": 57,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "7,1": {
+   "claimed": 36,
+   "mine": 36,
+   "agree": true,
+   "how": "enumerated"
+  },
+  "8,1": {
+   "claimed": 49,
+   "mine": 49,
+   "agree": true,
+   "how": "enumerated"
+  }
+ },
+ "_surface_rho": {
+  "3": {
+   "mine": 7,
+   "classical": [
+    7,
+    "every smooth cubic surface: rho=7"
+   ]
+  },
+  "4": {
+   "mine": 18,
+   "classical": [
+    18,
+    "generic P(x,y)+Q(z,w) quartic K3: Shioda 1981 (5.11) with r=8; cf. Rem 5.3(ii): P=Q gives 19"
+   ]
+  },
+  "5": {
+   "mine": 17,
+   "classical": [
+    17,
+    "Sasakura 1968 (prime m): (m-1)^2+1 for generic P,Q (cited via Shioda 1981 Rem 5.3(i))"
+   ]
+  },
+  "6": {
+   "mine": 58,
+   "classical": null
+  },
+  "7": {
+   "mine": 37,
+   "classical": [
+    37,
+    "Sasakura 1968 (prime m): (m-1)^2+1"
+   ]
+  },
+  "8": {
+   "mine": 50,
+   "classical": null
+  },
+  "9": {
+   "mine": 65,
+   "classical": null
+  }
+ },
+ "_all_checks_pass": true
+}

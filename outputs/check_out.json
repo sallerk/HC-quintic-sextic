@@ -1,0 +1,121 @@
+{
+ "exact_order d=3 r=1": 6,
+ "exact_order d=3 r=2": 6,
+ "exact_order d=4 r=1": 96,
+ "exact_order d=4 r=3": 96,
+ "exact_order d=6 r=1": 155520,
+ "exact_order d=6 r=5": 155520,
+ "fermat d=3 m=2": {
+  "balanced_chars": 20,
+  "balanced_all_hodge": 20,
+  "linear_chars": 8,
+  "linear_hodge": 8,
+  "fermat_hodge_total": 20,
+  "R_producer": 20
+ },
+ "fermat d=3 m=3": {
+  "balanced_chars": 70,
+  "balanced_all_hodge": 70,
+  "linear_chars": 16,
+  "linear_hodge": 16,
+  "fermat_hodge_total": 70,
+  "R_producer": 70
+ },
+ "fermat d=4 m=2": {
+  "balanced_chars": 99,
+  "balanced_all_hodge": 99,
+  "linear_chars": 27,
+  "linear_hodge": 27,
+  "fermat_hodge_total": 141,
+  "R_producer": 99
+ },
+ "fermat d=4 m=3": {
+  "balanced_chars": 609,
+  "balanced_all_hodge": 609,
+  "linear_chars": 81,
+  "linear_hodge": 81,
+  "fermat_hodge_total": 1107,
+  "R_producer": 609
+ },
+ "fermat d=5 m=2": {
+  "balanced_chars": 280,
+  "balanced_all_hodge": 184,
+  "linear_chars": 64,
+  "linear_hodge": 64,
+  "fermat_hodge_total": 400,
+  "R_producer": 64
+ },
+ "fermat d=5 m=3": {
+  "balanced_chars": 2470,
+  "balanced_all_hodge": 1414,
+  "linear_chars": 256,
+  "linear_hodge": 256,
+  "fermat_hodge_total": 4900,
+  "R_producer": 256
+ },
+ "fermat d=6 m=2": {
+  "balanced_chars": 605,
+  "balanced_all_hodge": 605,
+  "linear_chars": 125,
+  "linear_hodge": 125,
+  "fermat_hodge_total": 1751,
+  "R_producer": 605
+ },
+ "fermat d=6 m=3": {
+  "balanced_chars": 6961,
+  "balanced_all_hodge": 6961,
+  "linear_chars": 625,
+  "linear_hodge": 625,
+  "fermat_hodge_total": 38165,
+  "R_producer": 6961
+ },
+ "fermat d=7 m=2": {
+  "balanced_chars": 1116,
+  "balanced_all_hodge": 540,
+  "linear_chars": 216,
+  "linear_hodge": 216,
+  "fermat_hodge_total": 1860,
+  "R_producer": 216
+ },
+ "fermat d=7 m=3": {
+  "balanced_chars": 15846,
+  "balanced_all_hodge": 5958,
+  "linear_chars": 1296,
+  "linear_hodge": 1296,
+  "fermat_hodge_total": 44730,
+  "R_producer": 1296
+ },
+ "fermat d=8 m=2": {
+  "balanced_chars": 1855,
+  "balanced_all_hodge": 1183,
+  "linear_chars": 343,
+  "linear_hodge": 343,
+  "fermat_hodge_total": 5881,
+  "R_producer": 343
+ },
+ "fermat d=8 m=3": {
+  "balanced_chars": 31345,
+  "balanced_all_hodge": 17329,
+  "linear_chars": 2401,
+  "linear_hodge": 2401,
+  "fermat_hodge_total": 219871,
+  "R_producer": 2401
+ },
+ "fermat d=9 m=2": {
+  "balanced_chars": 2864,
+  "balanced_all_hodge": 1520,
+  "linear_chars": 512,
+  "linear_hodge": 512,
+  "fermat_hodge_total": 8000,
+  "R_producer": 512
+ },
+ "fermat d=9 m=3": {
+  "balanced_chars": 56134,
+  "balanced_all_hodge": 23878,
+  "linear_chars": 4096,
+  "linear_hodge": 4096,
+  "fermat_hodge_total": 343000,
+  "R_producer": 4096
+ },
+ "chevalley_weil_signature_match_d3to9": true
+}
