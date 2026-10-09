@@ -1,0 +1,30 @@
+(A) dimension identity: 28 (d,m) pairs, 0 failures
+(B) Betti sanity: OK
+(C) Fermat examples:
+    {'d': 5, 'k': 1, 'm': 1, 'Nprim_fermat_dim': 0, 'Nprim': 4, 'dimHdg': 17, 'R_dm_plus1': 17}
+    {'d': 5, 'k': 1, 'm': 2, 'Nprim_fermat_dim': 0, 'Nprim': 4, 'dimHdg': 65, 'R_dm_plus1': 65}
+    {'d': 5, 'k': 1, 'm': 3, 'Nprim_fermat_dim': 0, 'Nprim': 4, 'dimHdg': 257, 'R_dm_plus1': 257}
+    {'d': 5, 'k': 1, 'm': 4, 'Nprim_fermat_dim': 0, 'Nprim': 4, 'dimHdg': 1025, 'R_dm_plus1': 1025}
+    {'d': 5, 'k': 2, 'm': 1, 'Nprim_fermat_dim': 2, 'Nprim': 36, 'dimHdg': 37, 'R_dm_plus1': 17}
+    {'d': 5, 'k': 2, 'm': 2, 'Nprim_fermat_dim': 2, 'Nprim': 36, 'dimHdg': 145, 'R_dm_plus1': 65}
+    {'d': 5, 'k': 2, 'm': 3, 'Nprim_fermat_dim': 2, 'Nprim': 36, 'dimHdg': 577, 'R_dm_plus1': 257}
+    {'d': 5, 'k': 2, 'm': 4, 'Nprim_fermat_dim': 2, 'Nprim': 36, 'dimHdg': 2305, 'R_dm_plus1': 1025}
+    {'d': 5, 'k': 3, 'm': 2, 'Nprim_fermat_dim': 4, 'Nprim': 400, 'dimHdg': 401, 'R_dm_plus1': 65}
+    {'d': 5, 'k': 3, 'm': 3, 'Nprim_fermat_dim': 4, 'Nprim': 400, 'dimHdg': 1601, 'R_dm_plus1': 257}
+    {'d': 5, 'k': 3, 'm': 4, 'Nprim_fermat_dim': 4, 'Nprim': 400, 'dimHdg': 6401, 'R_dm_plus1': 1025}
+    {'d': 7, 'k': 1, 'm': 1, 'Nprim_fermat_dim': 0, 'Nprim': 6, 'dimHdg': 37, 'R_dm_plus1': 37}
+    {'d': 7, 'k': 1, 'm': 2, 'Nprim_fermat_dim': 0, 'Nprim': 6, 'dimHdg': 217, 'R_dm_plus1': 217}
+    {'d': 7, 'k': 1, 'm': 3, 'Nprim_fermat_dim': 0, 'Nprim': 6, 'dimHdg': 1297, 'R_dm_plus1': 1297}
+    {'d': 7, 'k': 1, 'm': 4, 'Nprim_fermat_dim': 0, 'Nprim': 6, 'dimHdg': 7777, 'R_dm_plus1': 7777}
+    {'d': 7, 'k': 2, 'm': 1, 'Nprim_fermat_dim': 2, 'Nprim': 90, 'dimHdg': 91, 'R_dm_plus1': 37}
+    {'d': 7, 'k': 2, 'm': 2, 'Nprim_fermat_dim': 2, 'Nprim': 90, 'dimHdg': 541, 'R_dm_plus1': 217}
+    {'d': 7, 'k': 2, 'm': 3, 'Nprim_fermat_dim': 2, 'Nprim': 90, 'dimHdg': 3241, 'R_dm_plus1': 1297}
+    {'d': 7, 'k': 2, 'm': 4, 'Nprim_fermat_dim': 2, 'Nprim': 90, 'dimHdg': 19441, 'R_dm_plus1': 7777}
+    {'d': 7, 'k': 3, 'm': 2, 'Nprim_fermat_dim': 4, 'Nprim': 1860, 'dimHdg': 1861, 'R_dm_plus1': 217}
+    {'d': 7, 'k': 3, 'm': 3, 'Nprim_fermat_dim': 4, 'Nprim': 1860, 'dimHdg': 11161, 'R_dm_plus1': 1297}
+    {'d': 7, 'k': 3, 'm': 4, 'Nprim_fermat_dim': 4, 'Nprim': 1860, 'dimHdg': 66961, 'R_dm_plus1': 7777}
+(D) d=6, |T|=1 extra sectors with nonzero (m,m)-part (reduced: no c_s=0):
+  m=1: 0 sectors, 0 reduced; []
+  m=2: 2 sectors, 2 reduced; [((2, 5, 5), {'1': 16, '2': 48}, 'mm=48'), ((4, 1, 1), {'2': 48, '3': 16}, 'mm=48')]
+  m=3: 8 sectors, 2 reduced; [((3, 1, 1, 1), {'3': 128, '4': 128}, 'mm=128'), ((3, 5, 5, 5), {'2': 128, '3': 128}, 'mm=128')]
+  m=4: 30 sectors, 10 reduced; [((2, 1, 1, 1, 1), {'4': 256, '5': 768}, 'mm=256'), ((2, 1, 5, 5, 5), {'3': 256, '4': 768}, 'mm=768'), ((2, 5, 1, 5, 5), {'3': 256, '4': 768}, 'mm=768'), ((2, 5, 5, 1, 5), {'3': 256, '4': 768}, 'mm=768'), ((2, 5, 5, 5, 1), {'3': 256, '4': 768}, 'mm=768'), ((4, 1, 1, 1, 5), {'4': 768, '5': 256}, 'mm=768'), ((4, 1, 1, 5, 1), {'4': 768, '5': 256}, 'mm=768'), ((4, 1, 5, 1, 1), {'4': 768, '5': 256}, 'mm=768'), ((4, 5, 1, 1, 1), {'4': 768, '5': 256}, 'mm=768'), ((4, 5, 5, 5, 5), {'3': 768, '4': 256}, 'mm=256')]

@@ -1,0 +1,136 @@
+{
+ "d5": [
+  {
+   "m": 1,
+   "j": 1,
+   "model": 17,
+   "shioda": 17,
+   "ok": true
+  },
+  {
+   "m": 1,
+   "j": 2,
+   "model": 37,
+   "shioda": 37,
+   "ok": true
+  },
+  {
+   "m": 2,
+   "j": 1,
+   "model": 65,
+   "shioda": 65,
+   "ok": true
+  },
+  {
+   "m": 2,
+   "j": 2,
+   "model": 145,
+   "shioda": 145,
+   "ok": true
+  },
+  {
+   "m": 2,
+   "j": 3,
+   "model": 401,
+   "shioda": 401,
+   "ok": true
+  },
+  {
+   "m": 3,
+   "j": 1,
+   "model": 257,
+   "shioda": 257,
+   "ok": true
+  },
+  {
+   "m": 3,
+   "j": 2,
+   "model": 577,
+   "shioda": 577,
+   "ok": true
+  },
+  {
+   "m": 3,
+   "j": 3,
+   "model": 1601,
+   "shioda": 1601,
+   "ok": true
+  },
+  {
+   "m": 3,
+   "j": 4,
+   "model": 4901,
+   "shioda": 4901,
+   "ok": true
+  },
+  {
+   "m": 4,
+   "j": 1,
+   "model": 1025,
+   "shioda": 1025,
+   "ok": true
+  },
+  {
+   "m": 4,
+   "j": 2,
+   "model": 2305,
+   "shioda": 2305,
+   "ok": true
+  },
+  {
+   "m": 4,
+   "j": 3,
+   "model": 6401,
+   "shioda": 6401,
+   "ok": true
+  },
+  {
+   "m": 4,
+   "j": 4,
+   "model": 19601,
+   "shioda": 19601,
+   "ok": true
+  },
+  {
+   "m": 4,
+   "j": 5,
+   "model": 63505,
+   "shioda": 63505,
+   "ok": true
+  }
+ ],
+ "d6": [
+  {
+   "m": 1,
+   "model": 58,
+   "shioda": 58,
+   "ok": true,
+   "very_general": 58,
+   "all_fermat": 86
+  },
+  {
+   "m": 2,
+   "model": 702,
+   "shioda": 702,
+   "ok": true,
+   "very_general": 606,
+   "all_fermat": 1752
+  },
+  {
+   "m": 3,
+   "model": 8658,
+   "shioda": 8658,
+   "ok": true,
+   "very_general": 6962,
+   "all_fermat": 38166
+  },
+  {
+   "m": 4,
+   "model": 107702,
+   "shioda": 107702,
+   "ok": true,
+   "very_general": 81526,
+   "all_fermat": null
+  }
+ ]
+}

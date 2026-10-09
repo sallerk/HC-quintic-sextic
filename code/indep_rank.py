@@ -1,5 +1,5 @@
 """
-indep_rank.py -- dimension counts for the split hypersurfaces (Sections 2 and 8 of the note); independent of producer.py
+indep_rank.py -- dimension counts for the split hypersurfaces (Sections 2 and 12 of the note); independent of producer.py
 
 Object: X_b = {F_0(u_0,v_0)+...+F_m(u_m,v_m)=0} in P^{2m+1}, F_s squarefree binary forms of degree d.
 
