@@ -143,7 +143,8 @@ code/burau_sage.py  ->  outputs/burau_sage.json, outputs/burau_sage.out
   For d = 4, 5, 6 and every k = 1, ..., d-1 (q = zeta_d^(-k)), builds McMullen's model
   (Braid groups and Hodge theory, Math. Ann. 355 (2013), Theorem 4.1): the hermitian Gram matrix of
   e_1, ..., e_d (indices mod d) and the maps T_i, and checks: the T_i preserve the form, satisfy the
-  braid relations and fix the radical; the radical is spanned by sum e_j and sum q^j e_j; the form on
+  braid relations and fix the radical; the radical is spanned by sum e_j and sum q^(-j) e_j
+  (McMullen's labelling; the code reverses the cyclic order, see its docstring); the form on
   the quotient E (dim d - 2) has signature (k - 1, d - 1 - k); T_1, ..., T_(d-1) generate the full
   matrix algebra of E (absolute irreducibility); if some Galois conjugate of k lies in
   [2, d-2], a word w with |sigma(trace w)| > d - 2 for some embedding sigma, so w has infinite order
