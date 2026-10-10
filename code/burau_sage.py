@@ -1,10 +1,10 @@
 """burau_sage.py: exact checks of the monodromy inputs for d = 4, 5, 6 (Sage, exact cyclotomic arithmetic).
 Model (McMullen, Braid groups and Hodge theory, Thm 4.1): for the curve y^d = (x - b_1)...(x - b_n), n = d, and
 q = zeta_d^(-k) (1 <= k <= d-1), H^1(X)_q is spanned by e_1..e_n (indices mod n) with
-   <e_i, e_i> = 2 Im q,  <e_i, e_{i+1}> = sqrt(-1) (1 - q),  <e_i, e_j> = 0 otherwise,
-(McMullen's form is conjugate-linear in the first slot; in our convention <x, y> = x^T G conj(y) this reads
- <e_i, e_{i+1}> = -sqrt(-1)(1 - q), and then sum e_j and sum q^j e_j span the radical, as in his proof of Thm 4.1;
- with the other sign the radical sits at the eigenvalues -1, -conj(q) of the rotation, which exist only for even n)
+   <e_i, e_i> = 2 Im q,  <e_i, e_{i+1}> = sqrt(-1) (1 - conj(q)),  <e_i, e_j> = 0 otherwise,
+for McMullen's form (sqrt(-1)/2) int a ^ conj(b), which is linear in the first slot, as is our convention
+<x, y> = x^T G conj(y). We use <e_i, e_{i+1}> = -sqrt(-1)(1 - q) = conj(sqrt(-1)(1 - conj(q))), which is
+McMullen's Gram matrix with the cyclic order of the e_i reversed; then sum e_j and sum q^j e_j span the radical.
 and the twists act by  x -> x - (q+1) <x, e_i>/<e_i, e_i> e_i  (q != -1),  x -> x - (sqrt(-1)/2) <x, e_i> e_i  (q = -1).
 We work on C^n with this hermitian Gram matrix, take the quotient E by its radical and check, for every (d, k):
   (a) the T_i preserve the form, satisfy the braid relations (cyclic indices) and fix the radical;
@@ -36,7 +36,7 @@ def model(d, k):
     G = matrix(K, n, n)
     for j in range(n):
         G[j, j] = 2 * imq
-        G[j, (j + 1) % n] += -I * (1 - q)              # McMullen's sqrt(-1)(1 - q), in the convention <x, y> = x^T G conj(y)
+        G[j, (j + 1) % n] += -I * (1 - q)              # McMullen's matrix, cyclic order reversed (see the docstring)
         G[(j + 1) % n, j] += conj(-I * (1 - q))
     assert G == G.transpose().apply_map(conj)
     Ts = []

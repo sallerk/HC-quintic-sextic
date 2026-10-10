@@ -150,8 +150,8 @@ code/burau_sage.py  ->  outputs/burau_sage.json, outputs/burau_sage.out
   (and for q = -1 that T_1 - I is nonzero with square 0); otherwise the order of the group generated
   by the T_i (GAP).
   Sign convention: the script uses <e_i, e_(i+1)> = -sqrt(-1)(1 - q) for the form linear in the
-  first variable; this is sqrt(-1)(1 - conj(q)) after reversing the cyclic order of the e_i, the value
-  used in the note. Remark 12.1 of the note compares it with the value printed by McMullen.
+  first variable; after reversing the cyclic order of the e_i this is sqrt(-1)(1 - conj(q)), the value
+  of McMullen's Theorem 4.1 and of the note.
   Expected: 12 entries, all checks true, "signature_ok": true; group orders 96 (d = 4, k = 1, 3) and
   155520 (d = 6, k = 1, 5); every other entry has an "infinite_order_witness".
 
@@ -176,7 +176,7 @@ code/dims_gf.py  ->  outputs/dims_gf.json, outputs/dims_gf.out
   prod_s ((<c_s> - 1) + (d - 1 - <c_s>) y), shifted by sigma - 1 with sigma = sum_s <c_s> / d, and
   dim V_c = (d-2)^(m+1).
   Expected: "B_fail": 0, "PSI_fail": 0, "B_checked": 20384, "PSI_checked": 8974. "B_checked"
-  includes the 17654 trivial cases T = {0, ..., m}; the other 2730 are the cases quoted in the note.
+  counts pairs (T, c): the 17654 trivial ones with T = {0, ..., m} and the 2730 quoted in the note.
 
 code/fermat_T.py  ->  outputs/fermat_T.json, outputs/fermat_T.out
   Supports: Remarks 8.6 and 9.6 of the note; described in Section 12, "Special members and products".
