@@ -2,7 +2,7 @@ Supporting code and data for the note
 "The Hodge conjecture for very general sums of binary quintics and sextics"
 ==========================================================================
 
-Status: accompanies the note (Kevin Saller, 2026, DOI 10.5281/zenodo.23267886); not peer reviewed.
+Status: accompanies the note (K. Saller, 2026, DOI 10.5281/zenodo.23267886); not peer reviewed.
 
 What the note proves (Theorem A there): for d = 5, 6 and every m >= 1, the Hodge conjecture holds for
 X = {F_0(u_0,v_0) + ... + F_m(u_m,v_m) = 0} in P^(2m+1) when F_0, ..., F_m are very general binary forms

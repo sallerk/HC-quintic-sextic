@@ -1,6 +1,6 @@
 # HC-quintic-sextic
 
-Code and data supporting the note *The Hodge conjecture for very general sums of binary quintics and sextics* (Kevin
+Code and data supporting the note *The Hodge conjecture for very general sums of binary quintics and sextics* (K.
 Saller, 2026), DOI [10.5281/zenodo.23267886](https://doi.org/10.5281/zenodo.23267886).
 
 **Result.** For d = 5 or 6 and every m ≥ 1, the Hodge conjecture holds for the hypersurface
